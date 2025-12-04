@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="capa-neomercado.png" width="600">
+</p>
+
 # NeoMercado Logistics & Pay
 **Simulação Profissional | Analista de Dados Pleno – Marketplace, Logística & Pagamentos**
 
